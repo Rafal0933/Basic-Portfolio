@@ -1,0 +1,75 @@
+#Header1 {
+    color: white;
+    background: #4aaaa5;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 17%;
+    text-align: center;
+    margin-left: 135px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#MyPic {
+    margin-left: 135px;
+}
+
+#Container {
+    margin-left: 135px;
+    font: #777777;
+}
+
+.Container {
+    margin-left: 135px;
+    font: #777777;
+}
+
+h2 {
+    color: #4aaaa5;
+    margin-left: 135px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3 {
+    margin-left: 135px;
+    font: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#blankbox {
+    margin-left: 135px;
+}
+
+.p{
+    float: right;
+}
+
+#header2 {
+    width: 80%;
+    line-height: 200%;
+    padding-right: 10px;
+}
+
+#header3 {
+    float: right;
+    font: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+footer {
+    background-color: #666666;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    border-top: 8PX;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+
+}
